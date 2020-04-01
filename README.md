@@ -1,2 +1,2 @@
 # REST_API
-CRUD operation with nodejs and expressjs
+CRUD operations with node.js and express.js.
